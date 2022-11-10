@@ -1,0 +1,21 @@
+extensions = [
+        
+        # 'exe', 'dll', 'so', 'rpm', 'deb', 'vmlinuz', 'img' #Arquivos do sistema
+        'jpg', 'jpeg', 'bmp', 'gif', 'png', 'svg', 'psd', 'raw', #Imagens
+        'mp3', 'mp4', 'm4a', 'aac', 'ogg','flac', 'wav', 'wma', 'aiff', 'ape', #Audios
+        'avi', 'flv', 'm4v', 'mov', 'mpg', 'mpeg', 'wmv', 'swf', '3gp', #Videos
+        'doc', ' docx', 'xls', 'xlsx', 'ppt', 'pptx', #Office
+        #OpenOffice, Adobe, Latex, Markdown, etc
+        'odt', 'odp', 'ods', 'txt', 'rtf', 'tex', 'pdf', 'epub', 'md', 
+        'yml', 'yaml', 'json', 'xml', 'csv',
+        'db', 'sql', 'dbf', 'mdb', 'csv', 
+        
+        'html', 'htm', 'xthml', 'php', 'asp', 'aspx', 'js', 'jsp', 'css', #tecnologias web
+        'c', 'cpp', 'cxx', 'h', 'hpp', 'hxx', #Codigo fonte C e C++
+        'java', 'class', 'jar', #Codigos fonte Java 
+        'ps', 'bat', 'vb', #Scripts de sistemas Windows
+        'awk', 'sh', 'cgi', 'pl', 'ada', 'swift', #Scripts de sistemas unix
+        'go', 'py', 'pyc', 'bf', 'coffee', #Outros tipos de codigo fonte
+        
+        'zip', 'tar', 'tgz', 'bz2', '7z', 'bak', #Arquivos compactados e bakups
+    ]
